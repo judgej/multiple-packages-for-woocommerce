@@ -1,3 +1,9 @@
+===============================================================
+== This repository will be removed. Development has moved to ==
+== https://github.com/academe/wc-multiple-packages           ==
+===============================================================
+
+
 === Plugin Name ===
 Contributors: hystericallyme
 Donate link: http://bolderelements.net/
